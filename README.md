@@ -1,17 +1,37 @@
-# mini_porter
+# 🚚 MoveMate
 
-A new Flutter project.
+A Flutter-based logistics and transportation booking application inspired by Porter.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* 🔐 User Login
+* 📦 Service Selection
+* 🚛 Vehicle Selection
+* 📍 Pickup & Drop Locations
+* 💰 Dynamic Fare Display
+* ✅ Booking Confirmation
 
-A few resources to get you started if this is your first Flutter project:
+## Tech Stack
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+* Flutter
+* Dart
+* Material Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screens
+
+* Welcome Screen
+* Login Screen
+* Home Dashboard
+* Service Selection
+* Vehicle Selection
+* Location Details
+* Fare Summary
+* Booking Confirmation
+
+## Future Enhancements
+
+* Firebase Authentication
+* Google Maps Integration
+* Live Vehicle Tracking
+* Booking History
+* Driver Dashboard
